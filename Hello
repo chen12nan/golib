@@ -1,0 +1,9 @@
+
+package golib
+
+import "fmt"
+
+
+func test() {
+   fmt.Println("xingkongdao")
+}
